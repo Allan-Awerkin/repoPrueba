@@ -1,2 +1,2 @@
 # repoPrueba
-Este es un REPO de prueba
+Este es un REPO de prueba 2
